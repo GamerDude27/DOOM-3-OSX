@@ -1,0 +1,8 @@
+# Files to ignore when considering what GIT should commit.
+
+# Mac files 
+.DS_Store
+xcuserdata/
+
+# DOOM 3 OSX
+build/
